@@ -1,3 +1,6 @@
-# House-Price-Prediction an Regression Problem
+# House-Price-Prediction a Regression Problem
 
-Using Kaggle Dataset is knowledge project, recieving an MSE error of 0.14
+A knowledge project using kaggle dataset, using techinques like Feature Selection, Feature Engineering, Finding coorelation etc.
+
+Recieving an MSE error of 0.14 on test dataset.
+
